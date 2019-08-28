@@ -1,4 +1,4 @@
-# GTK3 theme Tesla Light
+# GTK3 Theme Tesla Light
 Descrição: Baseado no tema Qogir na cor azul, borda e botões de janelas Materia White, da cor branca.
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta tesla-light-theme-master para sua /home. Dentro dessa pasta tem o arquivo Tesla Light.zip, extrair a pasta Tesla Light para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
