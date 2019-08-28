@@ -1,5 +1,5 @@
 # GTK3 Theme Tesla Light
-Descrição: Baseado no tema Qogir na cor azul, borda e botões de janelas Victory Gtk Theme, da cor branca.
+Descrição: Baseado no tema Qogir na cor azul, borda e botões de janelas Victory Gtk Theme, da cor branca, para o Xfce e borda e botões de janelas Materia White para o Mate.
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta tesla-light-theme-master para sua /home. Dentro dessa pasta tem o arquivo Tesla Light.zip, extrair a pasta Tesla Light para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
 # Mudando o tema:
